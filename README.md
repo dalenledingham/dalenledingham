@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Dalen and I'm passionate about programming. 
+
+I'm currently working on ...
+* A stock market bot (Python)
+* A personal library app (MERN stack)
+
+I'm currently learning ...
+* JavaScript
+   * Node.js + Express.js
+   * React
+* MongoDB
+* Docker
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalenledingham&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **dalenledingham/dalenledingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
