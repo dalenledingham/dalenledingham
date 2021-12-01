@@ -13,8 +13,8 @@ I'm currently learning ...
 * MongoDB
 * Docker
 
-[![Dalen Ledingham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenledingham&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalenledingham&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Dalen Ledingham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenledingham&theme=node)](https://github.com/dalenledingham/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalenledingham&theme=node)](https://github.com/dalenledingham/github-readme-stats)
 
 
 <!--
