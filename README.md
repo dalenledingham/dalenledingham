@@ -2,12 +2,9 @@
 
 I'm Dalen and I'm passionate about programming. 
 
-I'm currently working on ...
-* A stock market bot (Python)
-* A personal library app (MERN stack)
-
 I'm currently learning ...
 * JavaScript
+   * TypeScript
    * Node.js + Express.js
    * React
 * MongoDB
